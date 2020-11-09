@@ -16,3 +16,4 @@ Create a React application that gives info about Covid-19 using an API.
 * [X] Visualize in chart
 * [X] Use CSS lib
 * [X] Rework file structure (seperation of concern, Fetch, Chart, Table)
+* [ ] Turn into PWA
